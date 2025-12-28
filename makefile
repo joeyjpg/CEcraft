@@ -30,4 +30,4 @@ GFXDIR ?= gfx_calc
 
 USE_FLASH_FUNCTIONS ?= YES
 
-include $(CEDEV)/include/.makefile
+include $(HOME)/CEDEV/meta/makefile.mk
